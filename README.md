@@ -1,0 +1,1 @@
+This is a simple algorithm that responds to this question: Implement a method to perform basic string compression by counting the number of repeated characters. For example, the string "aabcccccaaa" would become "a2b1c5a3". If the "compressed" string is not shorter, then the method should return the original string. Each string is composed only of lowercase or uppercase letters.
